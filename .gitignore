@@ -29,6 +29,7 @@ projectFilesBackup
 
 .build
 .dist
+.env
 
 /core/client/tpl/hbs-tpl.js
 /core/client/assets/css
@@ -54,8 +55,6 @@ CHANGELOG.md
 
 # Casper generated files
 /core/test/functional/*.png
-
-config.js
 
 # Built asset files
 /core/built
